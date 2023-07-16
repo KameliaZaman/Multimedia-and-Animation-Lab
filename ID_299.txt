@@ -1,0 +1,7 @@
+Starting time for rendering:- 15/11/2022 at 11:10 AM
+Ending time for rendering:- 15/11/2022 at 12:36 PM
+Total duration:- 1 hour 26 minutes
+RAM size:- 16GB RAM
+Processor:- Intel Core i5- 8500 CPU 3.00Hz
+System type:- 64bit OS
+Graphics card:- available. Intel UHD graphics family
